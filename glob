@@ -1,0 +1,6 @@
+var = 10
+def mineFunction():
+    loc=var
+    loc=loc+1
+    print(loc)
+mineFunction()
