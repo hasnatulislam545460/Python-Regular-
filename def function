@@ -1,0 +1,8 @@
+def myFunction():
+    print("Say Assalamoulaikum")
+    a=300
+    b=13
+    sum=a+b
+    print(sum)
+myFunction()
+myFunction()
