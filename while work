@@ -1,0 +1,6 @@
+i=1
+while(i<=10):
+    print("I Love Python")
+    #writing any of the following two values will show the same value
+    #i=i+1
+    i+=1
