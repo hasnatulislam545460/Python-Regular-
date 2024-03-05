@@ -1,0 +1,5 @@
+def mine(num1,num2):
+    sum=num1+num2
+    print(sum)
+mine(10,5)
+mine(10,25)
