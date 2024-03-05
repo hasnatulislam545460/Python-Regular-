@@ -1,0 +1,7 @@
+#even number verify-
+i=1
+while i<=100:
+    if i%2==0:
+        #if no space are left in the output function after if, the code will display an error.
+        print(i)
+    i=i+1
